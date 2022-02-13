@@ -1,2 +1,0 @@
-# BlizzardHosting.github.io
-portfolio
